@@ -1,0 +1,7 @@
+com\Insurance\Agent\AgentRepository.class
+com\Insurance\Agent\AgentController.class
+com\Insurance\Agent\AgentService.class
+com\Insurance\Agent\Agent.class
+com\Insurance\WebMvcConfig.class
+com\Insurance\WebAppInitializer.class
+com\Insurance\JpaConfig.class
